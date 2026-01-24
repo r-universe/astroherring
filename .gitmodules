@@ -5,6 +5,9 @@
 [submodule "asd"]
 	path = asd
 	url = https://github.com/cran/asd
+[submodule "gsearly"]
+	path = gsearly
+	url = https://github.com/cran/gsearly
 [submodule "repolr"]
 	path = repolr
 	url = https://github.com/cran/repolr
